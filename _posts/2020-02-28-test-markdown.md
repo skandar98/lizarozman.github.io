@@ -14,6 +14,6 @@ comments: false
 In this section we will have a little introduction about the brain and how it works
 
 ##### Lateral view of the brain
-![Lateral View of the Brain] (https://github.com/LizaRozman/lizarozman.github.io/blob/master/brain1.jpg)   
-##### [Medial view of the brain] 
-![Medial View of the Brain] (https://github.com/LizaRozman/lizarozman.github.io/blob/master/brain-medial-lazy.png)
+[Lateral View of the Brain] (/brain1.jpg)   
+##### Medial view of the brain
+[Medial View of the Brain] (/brain-medial-lazy.png)
