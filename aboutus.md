@@ -9,5 +9,5 @@ We are a group of students from the Maastricht Science Programme (Maastricht Uni
 We hope you enjoy our project!
 
 
-![MSP Logo](/assets/img/MSP-Text-Prog20.png) | ![UM Logo](/assets/img/logo@2x.png)
+|![MSP Logo](/assets/img/MSP-Text-Prog20.png) | ![UM Logo](/assets/img/logo@2x.png)
 
