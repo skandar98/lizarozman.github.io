@@ -16,9 +16,7 @@ In this section we will have a little introduction about the brain and how it wo
 ##### Lateral view of the brain
 <img src="https://github.com/LizaRozman/Life-Science-Project/blob/supplementary_notes_and_files/brain1.jpg?raw=true" 
         usemap="#Lateral-view" 
-        alt="Lateral view of the brain showing all its brain regions"
-    >
-    <!-- Enable hover-over to display labels of different brain areas -->
+        alt="Lateral view of the brain showing all its brain regions">
     <map name="Lateral-view">
         <area target="_self" alt="Frontal Lobe" title="Frontal Lobe: The frontal lobes are important for voluntary movement, expressive language and for managing higher level executive functions." href="Brain" coords="347,57,295,128,271,221,274,304,215,312,187,345,96,331,71,276,70,214,92,164,124,126,152,102,210,69,290,52" shape="poly">
         <area target="_self" alt="Temporal Lobe" title="Temporal Lobe: Involved in processing auditory information and encoding of memory." href="Brain" coords="279,302,214,310,187,342,188,385,224,416,274,428,329,414,388,398,454,379,451,353,421,320,428,281,419,237,331,262" shape="poly">
@@ -30,8 +28,6 @@ In this section we will have a little introduction about the brain and how it wo
 <img src="https://github.com/LizaRozman/Life-Science-Project/blob/supplementary_notes_and_files/brain-medial-lazy.png?raw=true" 
         usemap="#Medial-view" 
         alt="Medial view of the brain showing all its brain regions">
-    
-    <!-- Enable hover-over to display labels of different brain areas -->
     <map name="Medial-view">
         <area target="_self" alt="Frontal Lobe" title="Frontal Lobe: The frontal lobes are important for voluntary movement, expressive language and for managing higher level executive functions." href="Medial_Brain" coords="136,224,160,229,175,252,156,269,99,280,35,276,4,238,2,194,22,144,48,105,85,66,169,20,238,12,223,52,223,99,190,84,169,96,136,128,108,153,103,210" shape="poly">
         <area target="_self" alt="Limbic Lobe" title="Limbic Lobe: It is linked to circuits that influence complex functions such as memory, learning, and behavior." href="Medial_Brain" coords="135,223,102,207,109,152,171,96,189,85,221,97,235,117,248,121,322,125,362,157,381,197,385,232,349,239,339,200,314,158,263,149,213,151,175,158,145,185" shape="poly">
