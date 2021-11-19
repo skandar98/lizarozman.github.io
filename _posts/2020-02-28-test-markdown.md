@@ -14,8 +14,10 @@ comments: false
 In this section we will have a little introduction about the brain and how it works
 
 ##### Lateral view of the brain
-![Lateral](/assets/img/brain1.jpg)(/LateralBrain.html)
+![Lateral](/assets/img/brain1.jpg)
+![Lateral](/LateralBrain.html)
             
 ##### Medial view of the brain
-![Medial](/assets/img/brain-medial-lazy.png)(/MedialBrain.html) 
+![Medial](/assets/img/brain-medial-lazy.png)
+![Medial](/MedialBrain.html) 
 
