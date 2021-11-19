@@ -14,7 +14,7 @@ comments: false
 In this section we will have a little introduction about the brain and how it works
 
 ##### Lateral view of the brain
-<img src="https://github.com/LizaRozman/Life-Science-Project/blob/supplementary_notes_and_files/brain1.jpg?raw=true" 
+<img src="https://github.com/LizaRozman/lizarozman.github.io/blob/master/assets/img/brain1.jpg" 
         usemap="#Lateral-view" 
         alt="Lateral view of the brain showing all its brain regions">
     <map name="Lateral-view">
@@ -25,7 +25,7 @@ In this section we will have a little introduction about the brain and how it wo
         <area target="_self" alt="Cerebellum: Is important for making postural adjustments in order to maintain balance." title="Cerebellum: Is important for making postural adjustments in order to maintain balance." href="Brain" coords="370,406,385,429,421,445,465,438,505,422,539,382,454,376" shape="poly">
     
 ##### Medial view of the brain
-<img src="https://github.com/LizaRozman/Life-Science-Project/blob/supplementary_notes_and_files/brain-medial-lazy.png?raw=true" 
+<img src="https://github.com/LizaRozman/lizarozman.github.io/blob/master/assets/img/brain-medial-lazy.png" 
         usemap="#Medial-view" 
         alt="Medial view of the brain showing all its brain regions">
     <map name="Medial-view">
