@@ -15,6 +15,11 @@ In this section we will have a little introduction about the brain and how it wo
 
 ##### Lateral view of the brain
 ![Lateral](/assets/img/brain1.jpg)   
+
+<img src="https://github.com/LizaRozman/Life-Science-Project/blob/supplementary_notes_and_files/brain-medial-lazy.png?raw=true" 
+        usemap="#Medial-view" 
+        alt="Medial view of the brain showing all its brain regions">
+
 <map name="Lateral-view">
         <area target="_self" alt="Frontal Lobe" title="Frontal Lobe: The frontal lobes are important for voluntary movement, expressive language and for managing higher level executive functions." href="Brain" coords="347,57,295,128,271,221,274,304,215,312,187,345,96,331,71,276,70,214,92,164,124,126,152,102,210,69,290,52" shape="poly">
         <area target="_self" alt="Temporal Lobe" title="Temporal Lobe: Involved in processing auditory information and encoding of memory." href="Brain" coords="279,302,214,310,187,342,188,385,224,416,274,428,329,414,388,398,454,379,451,353,421,320,428,281,419,237,331,262" shape="poly">
