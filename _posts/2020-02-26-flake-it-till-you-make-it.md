@@ -5,13 +5,79 @@ subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+<html lang="en">
+<head>
+  <title>Neurological Disorders</title>
+  <!-- Initialize a global WBK function -->
+  <script src="https://cdn.rawgit.com/maxlath/wikidata-sdk/dist/dist/wikibase-sdk.min.js"></script>
+  <!-- Initialize a global wdk object using the WBK object -->
+  <script src="https://cdn.rawgit.com/maxlath/wikidata-sdk/dist/dist/wikidata-sdk.min.js"></script>
+  <script src="http://d3js.org/d3.v4.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/8.9.0/js/anychart-core.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/8.9.0/js/anychart-venn.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/8.9.0/themes/pastel.min.js"></script>
+  <script src="queries.js"></script>
+  <script src="Function_VennData.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap" rel="stylesheet">
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+    <style type="text/css">
+      html,
+      body,
+      #container
+      {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+</head>
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+
+<body style="background-color:lightgray;">
+  <h1 style="font-family:verdana;  text-align:center;"> Query Results </h1> 
+  <pre id="output"></pre>
+
+<!-- Hard coded drop-down menu -->
+  <div id="information">
+    <form id="Disease1">
+      <select id="disease1" name="Disease 1">
+        <option value="Q181923"> ADHD </option>
+        <option value="Q4340209"> Mental Depression</option>
+        <option value="Q131755"> Bipolar Disorder</option>
+        <option value="Q202387"> PTSD</option>
+      </select>
+      <select id="disease2" name="Disease 2">
+        <option value="Q181923"> ADHD </option>
+        <option value="Q4340209"> Mental Depression</option>
+        <option value="Q131755"> Bipolar Disorder</option>
+        <option value="Q202387"> PTSD</option>
+       </select>
+      <select id="comparison" name="Comparison">
+          <option value="symp"> Symptoms</option>
+          <option value="treat"> Treatments </option>
+          <option value="gene"> Genes</option>
+          <option value="struct"> Brain structures</option>
+      </select>
+    </form>
+    <button id="searchButton" type="button" name="button">Search</button>
+  </div>
+<div id="container"></div>
+<!-- Return Query Script -->
+  <script>
+      document.getElementById('searchButton').onclick = function () {
+          
+          var dis1 = document.getElementById("disease1").value
+          var dis2 = document.getElementById("disease2").value
+          var comp = document.getElementById("comparison").value
+
+          vennDiagram(dis1, dis2, comp);
+          //console.log(q1);
+          
+      }
+  </script>
+</body>
+</html>
