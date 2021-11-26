@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Overlapping features of neurological diseases
-subtitle: Pick your poison!
 cover-img: /assets/img/wallpaper_brain.jpg
 ---
 
@@ -38,6 +37,8 @@ cover-img: /assets/img/wallpaper_brain.jpg
 <body style="background-color:lightgray;">
   <h1 style="font-family:verdana;  text-align:center;"> Query Results </h1> 
   <pre id="output"></pre>
+  <h5> Pick your poison!</h5>
+  <p> Choose 2 diseases and the feature you want to compare betweem </p>
 
 <!-- Hard coded drop-down menu -->
   <div id="information">
