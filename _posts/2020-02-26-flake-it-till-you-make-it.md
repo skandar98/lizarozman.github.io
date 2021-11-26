@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: Overlapping features of neurological diseases
+subtitle: 
+cover-img: 
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: 
 ---
 
 <html lang="en">
@@ -18,8 +18,8 @@ share-img: /assets/img/path.jpg
   <script src="https://cdn.anychart.com/releases/8.9.0/js/anychart-core.min.js"></script>
   <script src="https://cdn.anychart.com/releases/8.9.0/js/anychart-venn.min.js"></script>
   <script src="https://cdn.anychart.com/releases/8.9.0/themes/pastel.min.js"></script>
-  <script src="queries.js"></script>
-  <script src="Function_VennData.js"></script>
+  <script src="/assets/js/queries.js"></script>
+  <script src="/assets/js/Function_VennData.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap" rel="stylesheet">
 
     <style type="text/css">
