@@ -73,8 +73,6 @@ cover-img: /assets/img/wallpaper_brain.jpg
           var comp = document.getElementById("comparison").value
 
           vennDiagram(dis1, dis2, comp);
-          //console.log(q1);
-          
       }
   </script>
 </body>
