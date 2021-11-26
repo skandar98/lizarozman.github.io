@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Overlapping features of neurological diseases
-subtitle: 
-cover-img: 
-thumbnail-img: /assets/img/thumb.png
-share-img: 
+subtitle: Pick your poison!
+cover-img: /assets/img/wallpaper_brain.jpg
 ---
 
 <html lang="en">
