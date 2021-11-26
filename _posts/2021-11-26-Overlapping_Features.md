@@ -37,7 +37,7 @@ cover-img: /assets/img/brain_wallpaper_dark.jpg
 <body style="background-color:lightgray;">
   <h1 style="font-family:verdana;  text-align:center;"> Pick your poison! </h1> 
   <pre id="output"></pre>
-  <h5> Choose 2 diseases and the feature you want to compare between them </h5>
+  <p> Choose 2 diseases and the feature you want to compare between them </p>
 
 <!-- Hard coded drop-down menu -->
   <div id="information">
