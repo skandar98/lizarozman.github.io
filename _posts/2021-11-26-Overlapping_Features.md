@@ -33,7 +33,7 @@ cover-img: /assets/img/brain_wallpaper_dark.jpg
 </head>
 
   <h1> Neurological Disorders </h1>
-  <p> Neurological disorders are very complex and often present differently in different people. You can use the tool below to compare any two (out of the available) neurological disorders and see how they compare in different features (symptoms, drugs used to treat the disease, genes associated with the disorder and brain regions in which these genes are expressed. We hope this tool will provide insight into how different disorders compare to each other and will help neuroscientists better understand the relationship between elements involved in these disorders. </p>
+  <p style="text-align:justify;"> Neurological disorders are very complex and often present differently in different people. You can use the tool below to compare any two (out of the available) neurological disorders and see how they compare in different features (symptoms, drugs used to treat the disease, genes associated with the disorder and brain regions in which these genes are expressed. We hope this tool will provide insight into how different disorders compare to each other and will help neuroscientists better understand the relationship between elements involved in these disorders. </p>
 
 <body style="background-color:lightgray;">
   <h1 style="font-family:verdana;  text-align:center;"> Pick your poison! </h1> 
